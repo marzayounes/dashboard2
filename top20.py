@@ -11,7 +11,7 @@ import requests
 # from Home import FLASK_URL, X_test
 
 # # URL parent du serveur Flask
-FLASK_URL = "http://127.0.0.1:8500/"
+FLASK_URL = "https://dry-hollows-66891-dbeee0d59509.herokuapp.com/"
 
 # ======================== | Page title & sidebar | ========================
 
